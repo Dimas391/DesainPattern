@@ -12,4 +12,5 @@
 - Terdapat tiga jenis pembayaran yang diimplementasikan sebagai kelas-kelas yang mengimplementasikan antarmuka PaymentStrategy: CreditCardPayment, PayPalPayment, dan BitcoinPayment.
 - Kelas ShoppingCartContext bertindak sebagai konteks yang menggunakan PaymentStrategy yang dipilih untuk melakukan pembayaran saat checkout.
 - Pengguna dapat memilih metode pembayaran yang diinginkan saat melakukan pembayaran di keranjang belanja.
+  
   ![Alt Text](tugas.png)
